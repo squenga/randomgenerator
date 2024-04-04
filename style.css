@@ -1,0 +1,42 @@
+body {
+    background-color: #023020;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+}
+
+.button {}
+
+#title {
+    font-size: 10vmin;
+    text-align: center;
+}
+
+#directions {}
+
+#executeButton {
+    background-color: pink;
+}
+
+#result {
+    font-size: 7vmin;
+    text-align: center;
+    margin: 0;
+}
+
+#outputContainer {
+    text-align: center;
+}
+
+#outputImage {
+    width: 30%;
+    height: auto;
+}
+
+.shadow {
+	box-shadow: 0 0 10px;
+    margin: 8vmin;
+    padding: 3vmin;
+}
